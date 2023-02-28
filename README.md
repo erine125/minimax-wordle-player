@@ -1,6 +1,6 @@
 ### Overview
 
-This project implements a Wordle solver agent using Minimax.
+This project implements a Wordle solver agent using Minimax. This project was originally completed as a course final for CPSC 063 at Swarthmore College.
 
 ### Files (& running instructions)
 
