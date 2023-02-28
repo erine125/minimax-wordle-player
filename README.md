@@ -28,7 +28,4 @@ The repository also contains 2 files containing word lists:
 - `words_soln.txt`: All possible solutions to the game.
 - `words_guesses.txt`: All words that are allowed as guesses but are not possible solutions to the game.
 
-Note that these are separate lists of words; this is because the list of possible solutions contains mostly very common words, because it would be hard for a human player if the game required them to know a very obscure word to guess the secret word. However, the list of allowed guesses is very broad so as to allow players to guess many possible words.
-The possible guesses used by the program is the sum of both lists.
-
-The repository also contains images for the writeup.
+These word lists were taken from the original Wordle game by Josh Wardle.
